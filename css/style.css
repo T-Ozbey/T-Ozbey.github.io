@@ -3,14 +3,14 @@
     font-size: 100px;
 }
 
-.class-three{
-    text-align: center;
-}
-
 .class-one {
     margin-top: 100px;
 }
 
 .class-two {
     font-size: 100px;
+}
+
+.class-three{
+    text-align: center;
 }
