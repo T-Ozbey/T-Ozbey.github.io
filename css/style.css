@@ -32,7 +32,11 @@ body {
 }
 
 .color3 {
-    color: rgb(253, 162, 162);
+    color: rgb(245, 150, 150);
+}
+
+.color4 {
+    color: rgb(255, 182, 182);
 }
 
 .color1:hover {
