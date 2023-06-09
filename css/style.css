@@ -14,3 +14,31 @@
 .class-three{
     text-align: center;
 }
+
+.navbar-color {
+    background-color: rgb(163, 17, 17);
+}
+
+body {
+    background-color:rgb(197, 87, 87);
+}
+
+.color1 {
+    color: rgb(242, 76, 76);
+}
+
+.color2 {
+    color: rgb(250, 118, 118)
+}
+
+.color3 {
+    color: rgb(253, 162, 162);
+}
+
+.color1:hover {
+    color: rgb(249, 137, 137);
+}
+
+.color2:hover {
+    color: rgb(242, 76, 76);
+}
