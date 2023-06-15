@@ -51,6 +51,15 @@ body {
     border: 1px solid white;
     margin-left: 100px;
     height: 300px;
+    float: left;
+}
+
+.img-two {
+    border: 1px solid white;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    height: 300px;
+    float: right;
 }
 
 .card {
