@@ -28,7 +28,7 @@ body {
 }
 
 .color2 {
-    color: rgb(250, 118, 118)
+    color: rgb(250, 118, 118);
 }
 
 .color3 {
@@ -47,8 +47,20 @@ body {
     color: rgb(242, 76, 76);
 }
 
-img {
+.img-one {
     border: 1px solid white;
     margin-left: 100px;
     height: 300px;
+}
+
+.card {
+    margin: 50px;
+    height: 250px;
+    width: 250px;
+    background-color: rgb(163, 17, 17);
+    border: 1px solid white;
+}
+
+.card-title {
+    text-decoration: underline;
 }
