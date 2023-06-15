@@ -59,6 +59,7 @@ body {
     width: 250px;
     background-color: rgb(163, 17, 17);
     border: 1px solid white;
+    float: left;
 }
 
 .card-title {
